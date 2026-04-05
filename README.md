@@ -85,3 +85,4 @@ Contributions are highly encouraged! Please open issues for bugs or feature requ
 ## License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+Adding additional examples to the summarization script.
